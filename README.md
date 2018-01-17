@@ -1,2 +1,2 @@
 # Demo-Git-for-student
-This is a simple demo for a student excercise...
+This is a simple demo for a student excercise. But still, it's pretty difficult though (at least for a complete beginner).
